@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://dark-counter.github.io/devops-docs/`.
-
-Проверка покрытия: [отсутствующая страница](missing-page.md).
